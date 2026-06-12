@@ -2,7 +2,7 @@
 
 > A Claude **Skill** that turns the model into a complete Chinese creative-writing engine. Style-tuning lives inside one supreme aesthetic law (**image over assertion; every image must be beautiful or witty**): five deeply-crafted reference archives are recommended first, and when they genuinely fall short, the engine searches world literature and forges new references using those archives as the template. **The five are a base, not a cage.**
 >
-> 一个把 Claude 变成**完整中文创意写作引擎**的 Skill。风格定调发生在最高美学律之内（**意象优先于断言，且要么美、要么有机锋**）：定调优先推荐五个打磨最深的精装 reference（刘仲敬、江南、川端中译、郭敬明式都市、班宇）；当它们确实不足以满足你的意图时，引擎会向**全网高级著作的尺度**搜索新 reference，并按精装档案的架构现场铸造成同等质量的档案。**五个档案是"一份 reference 该有的架构与能力"的基地，不是全部 reference 的限定框。** 你贴来的任何参考文本也可实时提取成档。
+> 一个把 Claude 变成**完整中文创意写作引擎**的 Skill。风格定调发生在最高美学律之内（**意象优先于断言，且要么美、要么有机锋**）：定调优先推荐五个打磨最深的精装 reference；当它们确实不足以满足你的意图时，引擎会向**全网高级著作的尺度**搜索新 reference，并按精装档案的架构现场铸造成同等质量的档案。**五个档案是"一份 reference 该有的架构与能力"的基地，不是全部 reference 的限定框。** 你贴来的任何参考文本也可实时提取成档。
 
 ---
 
